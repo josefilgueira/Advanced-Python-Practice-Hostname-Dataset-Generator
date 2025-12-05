@@ -36,6 +36,10 @@ The notebook includes:
 
 *(These figures follow the design requirements shown on pages 6–7 of the assignment.)* :contentReference[oaicite:7]{index=7}
 
+
+![Description](https://i.imgur.com/N5XRwzl.png)
+
+
 ---
 
 ## 📁 Files in This Repository
