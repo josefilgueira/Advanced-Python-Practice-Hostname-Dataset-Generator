@@ -3,7 +3,7 @@
 This repository contains my solution to the **Advanced Python Programming Practice** from the *Master in Data Science, Big Data & Business Analytics*.  
 The goal of the exercise is to demonstrate solid understanding of Python fundamentals and advanced concepts by generating a synthetic dataset of hostnames and performing exploratory analysis using Pandas and Matplotlib.
 
-All requirements and scoring criteria are based on the official assignment document (Python Avanzado Práctica v0.1.6) :contentReference[oaicite:0]{index=0}.
+All requirements and scoring criteria are based on the official assignment document.
 
 ---
 
@@ -34,7 +34,7 @@ The notebook includes:
 - 3 horizontal bar charts  
 - A final 2x2 visualization grid summarizing the dataset  
 
-*(These figures follow the design requirements shown on pages 6–7 of the assignment.)* :contentReference[oaicite:7]{index=7}
+*(These figures follow the design requirements shown on pages 6–7 of the assignment.)* 
 
 
 ![Description](https://i.imgur.com/N5XRwzl.png)
